@@ -10,5 +10,5 @@ Resturant can login and view all the orders.<br>
 They can add the products and their description from their side.<br>
 Also delete the already added item.<br>
 
-<p>This is how the interface looks</p>
-![Uploading image.png…]()
+# User Interface
+<div align="center"><img src="C:\Users\91943\Pictures\Screenshots\Screenshot (69).png" ></div>
