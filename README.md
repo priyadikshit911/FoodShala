@@ -11,4 +11,6 @@ They can add the products and their description from their side.<br>
 Also delete the already added item.<br>
 
 # User Interface
-<div align="center">![](https://github.com/priyadikshit911/FoodShala/blob/main/img/Screenshot%20(69).png)</div>
+<div align="center">
+  ![](https://github.com/priyadikshit911/FoodShala/blob/main/img/Screenshot%20(69).png)
+</div>
