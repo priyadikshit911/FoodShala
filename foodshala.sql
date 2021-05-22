@@ -51,8 +51,6 @@ CREATE TABLE `orders` (
 -- Dumping data for table `orders`
 --
 
-INSERT INTO `orders` (`order_id`, `product_id`, `customer_id`, `payment`, `created_at`) VALUES
-(17, 5, 6, 50, '2021-05-20 00:59:02');
 
 -- --------------------------------------------------------
 

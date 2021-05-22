@@ -424,9 +424,9 @@
                     </select>
                   </div>
                   
-                  <div class="form-group" id="Preference">
-                    <label for="Preference" class="font-weight-bold">Preference:</label>
-                    <select name="prefer" id="Preferenced" class="form-control ">
+                  <div class="form-group" id="preference">
+                    <label for="preference" class="font-weight-bold">Preference:</label>
+                    <select name="prefer" id="preference" class="form-control ">
                       <option value="">Select Preference..</option>
                       <option value="veg">Veg</option>
                       <option value="nonveg">Non-veg</option>
@@ -455,14 +455,14 @@
       //login script
 
       $(document).ready(function(){
-        $('#Preference').hide();
+        $('#preference').hide();
         $('#usertype').bind('change keyup',function () {
           var user=$(this).children("option:selected").attr('value');
           if (user == 'Customer') {
-            $('#Preference').show();
+            $('#preference').show();
           }
           else{
-            $('#Preference').hide();
+            $('#preference').hide();
           }
         });
       });
