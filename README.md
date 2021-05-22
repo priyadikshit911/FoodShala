@@ -12,5 +12,5 @@ Also delete the already added item.<br>
 
 # User Interface
 <div align="center">
-  ![](https://github.com/priyadikshit911/FoodShala/blob/main/img/Screenshot%20(69).png)
+  ![alt text](https://github.com/priyadikshit911/FoodShala/blob/main/img/Screenshot%20(69).png)
 </div>
